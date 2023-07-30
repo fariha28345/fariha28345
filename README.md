@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Manual and Automation Testing**
 
-- 🌱 I’m currently learning **Rest Assured**
+- 🌱 I’m currently learning **Cypress**
 
 - 💬 Ask me about **Manual and Automation Tesing**
 
